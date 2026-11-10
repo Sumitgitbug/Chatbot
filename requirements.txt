@@ -1,0 +1,5 @@
+beautifulsoup4
+chromadb
+google-genai
+pypdf
+python-dotenv

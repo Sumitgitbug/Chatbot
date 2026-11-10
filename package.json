@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.x.x",
+    "react": "^19.x.x",
+    "react-dom": "^19.x.x",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.43.0",
+    "tailwind-merge": "^3.6.0"
+  }
+}
